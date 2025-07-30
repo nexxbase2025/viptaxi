@@ -18,6 +18,7 @@ const FILES_TO_CACHE = [
   "3VIDEOS.webp",
   "4TURADIO.webp",
   "5JINGLES.webp",
+  "T3.webp",
   "mi_contacto.vcf"
 ];
 
